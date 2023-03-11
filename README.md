@@ -1,3 +1,1 @@
-<link rel="stylesheet" href="style.css">
-
-# My Heading
+#Javascript beginner challenges
